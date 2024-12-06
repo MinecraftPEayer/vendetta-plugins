@@ -1,4 +1,4 @@
-# Vendetta Plugins Template
+# My Vendetta Plugins
 This repo contains a template for creating [Vendetta](https://github.com/vendetta-mod/Vendetta) plugins.
 
 # How to install?
